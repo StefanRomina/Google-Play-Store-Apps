@@ -12,6 +12,8 @@ The Dataset has data about more than 10,000 apps in the Store.
 
 **Packages Used** : pandas, numpy, matplotlib, seaborn, plotly, cufflinks, iplot
 
+The whole project here: https://nbviewer.jupyter.org/github/StefanRomina/Google-Play-Store-Apps/blob/master/Google%20Play%20Store%20Apps%20Project.ipynb
+
 
 **Motivation:**
 
